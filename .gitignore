@@ -1,0 +1,9 @@
+target/
+allure-results/
+allure-report/
+.idea/
+*.iml
+*.class
+.allure/
+hs_err_pid*.log
+replay_pid*.log

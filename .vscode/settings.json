@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.jdt.ls.java.home": "C:\\Users\\User\\AppData\\Local\\jdks\\jdk-25.0.2",
+    "terminal.integrated.env.windows": {
+        "JAVA_HOME": "C:\\Users\\User\\AppData\\Local\\jdks\\jdk-25.0.2",
+        "MAVEN_HOME": "C:\\Users\\User\\.maven\\maven-3.9.15",
+        "PATH": "C:\\Users\\User\\AppData\\Local\\jdks\\jdk-25.0.2\\bin;C:\\Users\\User\\.maven\\maven-3.9.15\\bin;${env:PATH}"
+    }
+}
